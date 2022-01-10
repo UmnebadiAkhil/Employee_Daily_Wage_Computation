@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: EmployeeWageComputationProblem, Configuration: Debug Any CPU ------
+1>EmployeeWageComputationProblem -> C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Employee_Wage_Computation_Problem\EmployeeWageComputationProblem\bin\Debug\net6.0\EmployeeWageComputationProblem.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
